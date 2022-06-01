@@ -7,5 +7,5 @@ namespace nt
 namespace io
 {
 void print_something() { std::cout << "Hello world!\n"; }
-} // namespace vision
+} // namespace io
 } // namespace nt
